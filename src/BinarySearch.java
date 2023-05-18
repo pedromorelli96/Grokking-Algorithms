@@ -7,7 +7,7 @@ public class BinarySearch {
 		int high = array.length - 1;
 		
 		while (low <= high) {
-			int mid = (low + high) / 2;
+			int mid = (low + high) / 2; // integer division is always floored in Java
 			int guess = array[mid];
 			
 			if (guess == item) {
