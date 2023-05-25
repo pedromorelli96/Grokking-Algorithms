@@ -14,6 +14,8 @@ This repository contains Java samples of the algorithms explained in the Grokkin
 
 ### 05 - [BFS](src/BFS.java)
 
+### 06 - [Dijkstra's Algorithm](src/DijkstrasAlgorithm.java)
+
 <br>
 
 ## Jump to _exercises_:
