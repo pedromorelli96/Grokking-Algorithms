@@ -16,6 +16,8 @@ This repository contains Java samples of the algorithms explained in the Grokkin
 
 ### 06 - [Dijkstra's Algorithm](src/DijkstrasAlgorithm.java)
 
+### 07 - [Set Covering Greedy Algorithm](src/SetCovering.java)
+
 <br>
 
 ## Jump to _exercises_:
